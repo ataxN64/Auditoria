@@ -1,0 +1,107 @@
+¿Por qué? Hay necesidad de un marco de trabajo para el control del gobierno de TI.
+Para asegurar una Alineación estratégica y asegurar que las actividades y proyectos TI que estén alineados o cumpliendo los objetivos y metas de la organización, también para tener una buena Gestión ante los riesgos , también es necesario para una optimización de recursos y llevar a cabo el cumplimiento normativo.
+
+
+
+
+Indique los 3 grupos de interesados para los cuales sirve un marco de referencia de gobierno y de control.
+- Consejo de administración
+- Gestores TI y Ejecutivos
+- Auditores y Reguladores 
+
+
+
+
+Indique las especificaciones generales que un marco de referencia para el gobierno y el control de TI debe satisfacer.
+- Integridad: debe de proporcionar un enfoque en la gestión de TI
+- Escalabilidad: Se aplica tanto a grandes y a pequeñas empresas 
+- Orientación: Debe centrarse a todos los procesos de TI
+- Soporte: Debe facilitar la evaluación y las mejoras de TI
+- Alineación de Normas y Buenas practicas: En esto entra seguir a paso las normativas, ponemos como ejemplo las ISOS
+
+
+
+
+ 4. Explique cada uno de los Criterios de Información de COBIT siguientes: Efectividad, Eficiencia, Confidencialidad, Integridad, Disponibilidad, Cumplimiento y Confiabilidad.
+- Efectividad: La información debe ser relevante y oportuna y debe cumplir los objetivos del negocio y debe facilitar la toma de decisiones. 
+- Eficiencia: La información debe ser obtenida y utilizada de manera que agilice los procesos de la organización. 
+- Confidencialidad: La información debe ser únicamente para personal autorizado, y no brindar acceso a personas de terceros o fuera de la organización ya que algunas veces puede ser información sensible. 
+- Integridad: La información debe ser precisa y lo más completa posible y fiable no ser permitidas las modificaciones no autorizadas o de otros medios externos a la organización.  
+- Disponibilidad: la información debe estar disponible cuando se necesite ser gestionada facilitando y agilizando los requerimientos del negocio. 
+- Cumplimiento: la infamación debe cumplir los estándares, regulaciones y políticas internas de la organización.
+-Confiabilidad: La información debe ser confiable y debe tener información verdadera que se rijan a las operaciones de organización. 
+
+5. Describa cada uno de los recursos de TI identificados en COBIT (Aplicaciones, Información, Infraestructura y Personas)
+- Aplicaciones: se rigen o aplican las funcionalidad de conoció, entre ellas incluyen ERP y CRM que son aplicaciones o programas personalizados. 
+- Información: Datos y contenido que gestiona la organización con suma importancia para la toma de decisiones.   
+- Infraestructura: son todas la herramientas y componentes que forman el sistema, esta implementada por el Hardware, la infraestructura de la red, sus bases de datos servidores. 
+- Personas: personal involucrados en la gestión, operación y administración de los sistemas, como desarrolladores, administradores y usuarios finales.   
+
+6. Explique en qué consiste el Dominio Planear y Organizar.
+
+E la planificación estratégica y la organización de los recursos de TI para cumplir todos los objetivos y las reglas del negocio estos se denominan en actividades como la definición, determinación, gestión.
+
+7. Explique en qué consiste el Dominio Adquirir e Implementar
+
+consiste en enfocarse en la adquisición, desarrollo y implementación de soluciones TI y se requieres actividades que son la Identificación, adquisición, gestión, implementación y la gestión de los servicios TI.
+
+8. Explique en qué consiste el Dominio Entregar y Dar Soporte
+
+Se enfoca o se centra en la entrega de servicios TI y el soporte a los usuarios.
+
+9. Explique en qué consiste el Dominio Monitorear y Evaluar
+
+Se ocupa en la evaluación del desempeñó en las actividades de TI conforme a las normativas tomando en cuenta los controles internos. 
+
+10. Defina Control.
+
+Es una declaración de los procedimientos que tiene como finalidad asegurar los procesos de TI cumplan con los requisitos del negocio, eliminando riegos. 
+
+11. ¿Qué es un objetivo de control?
+
+Es una practica o procedimiento que tiene como finalidad asegurar que los procedimientos de TI se cumplan conforme a los requisitos del negocio.
+
+12.  ¿Cómo se identifican los objetivos de control detallados?
+
+Se identifican mediante Análisis de los procedimientos de TI, Evaluación de riegos Revisión de las normativas y consultas.
+
+13. Explique cómo impacta el sistema empresarial de controles internos en cada uno de los 3 niveles de TI.
+
+Nivel Estratégico:  Alinea los objetivos de TI con la estrategia de la organización, asegurando el aporte al valor del negocio.
+
+Nivel Táctico: Define los procedimientos y políticas necearías para la gestión de los recursos de TI, para garantizar la calidad y eliminar riesgos. 
+
+Nivel Operacional: Implementa controles específicos en los sistemas y procesos de Ti para asegurar la integridad de los datos y la continuidad de los servicios.  
+
+14. Proporcione 4 ejemplos de controles generales de TI.
+
+1) Control de accesos: es la implementación de políticas de acceso y autorización. 
+2) Seguridad de  Redes: Uso de medidas de seguridad para proteger la red.
+3) Gestión de cambios: Proceso para evaluar, aprobar e implementar cambios en los sistemas TI.
+4) Copias de seguridad: Estrategias y procedimientos para respaldar datos en caso de perdida, o falla.
+
+
+
+
+15. Proporcione 5 ejemplos de controles de aplicación.
+
+1) Validación de entrada de datos
+2) controles de procedimientos
+3) controles de salida
+4) controles de integridad
+5)Controles de Autorización
+
+16. Explique los 6 niveles del modelo genérico de madurez.
+
+Nivel 0: Inexistente, no hay procesos implementados
+Nivel 1: Inicial, Procesos no están formalizados y se realizan de manera informal.
+Nivel 2: Repetible pero intuitivo, los procesos están en un lugar pero no están documentados ni estandarizados formalmente.
+Nivel 3: Definido, Los procesos están documentados y estandarizados.
+Nivel 4: Gestionado, Los procesos están monitoreados permitiendo mejoras basados en datos.
+Nivel 5: Optimizado Mejorado
+
+17. Indique las 3 dimensiones de la madurez de un proceso.
+
+- Capacidad del proceso
+- Cobertura de la práctica
+- Alcance de la implementación 
